@@ -1,0 +1,3 @@
+# Install the correct CUDA-enabled PyTorch build first from https://pytorch.org/get-started/locally/
+# Then install this optional GPU dependency:
+kornia>=0.7.4,<1

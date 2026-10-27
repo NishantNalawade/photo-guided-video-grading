@@ -1,0 +1,4 @@
+[server]
+# Streamlit limits are in MB. This permits a single upload up to 5 GiB.
+maxUploadSize = 5120
+maxMessageSize = 5120
